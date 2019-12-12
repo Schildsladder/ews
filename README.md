@@ -1,15 +1,13 @@
-# Magnetohydrodynamics Simulation
-Python program to simulate basic Magnetohydrodynamics, combining navier stokes and maxwell equation using finite element methoods. this project has been done as intership project at Indonesian National Institute of Aeronautics and Space Agency. The detail of this project can be found in the pdf file. This work based mainly from the works of Ryan Farber(2015), Magenohydrodynamic Simulation in Python.
+# Mass produced landslide early warning system 
+This project is the idea and funded by Mr Ahmad Marzuki, my role is to implement the concept and manufactured over 100 landslide sensor. This sensor works by sensing a crack in the wall, piezzo alarm will activate and alarm the residence if the crack exceed certain treshold. This simple sensor is sensitive to less than 10 micron of movement and powered by battery, it can work for up to one year, after that the battery needs replacement.
 
-Click the picture bellow to watch simulation result:
-[![Mandelbrot Video](https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/MHD.jpg)](https://www.youtube.com/watch?v=Nnf4BVqTEVM "Magnetohydrodynamics Simulation")
+installed sensor:
 
-# This is some of the simulation still frame
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%202%20.png" width="80%">
+<img src="https://github.com/Schildsladder/ews/blob/master/pictures/a.jpeg" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2029%20.png" width="80%">
+<img src="https://github.com/Schildsladder/ews/blob/master/pictures/d.jpeg" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2093%20.png" width="80%">
+<img src="https://github.com/Schildsladder/ews/blob/master/pictures/b.jpeg" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%20217%20.png" width="80%">
+<img src="https://github.com/Schildsladder/ews/blob/master/pictures/c.jpeg" width="80%">
 
